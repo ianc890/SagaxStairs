@@ -1,0 +1,6 @@
+com\sagax\domain\StairsInfo.class
+com\sagax\util\JSONUtil.class
+com\sagax\service\business\StairsService.class
+com\sagax\integration\StairsEndpoint.class
+com\sagax\integration\JAXActivator.class
+com\sagax\service\business\StairsServiceImpl.class
